@@ -6,7 +6,9 @@ export default function GuessRow({ player }) {
             <td>{player.draftTeam}</td>
             <td>{player.draftYear}</td>
             <td>{player.currentTeam}</td>
-            <td>{player.status}</td>
+            <td>
+                {player.isActive ? "Active" : "Retired"}
+            </td>
             <td>{player.number}</td>
         </tr>
     );
