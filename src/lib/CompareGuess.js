@@ -10,7 +10,9 @@ export default function CompareGuess(guess, answer) {
   
       isActive: compareExact(guess.isActive, answer.isActive),
   
-      number: compareNumber(guess.number, answer.number),
+      number: compareNumber(guess.jerseyNumber, answer.jerseyNumber),
+
+      nationality: compareExact(guess.nationality, answer.nationality),
     };
   }
   
