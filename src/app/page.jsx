@@ -10,6 +10,8 @@ import { getDailyPlayer } from "../lib/getDailyPlayer";
 import players from "../data/players.json";
 
 export default function Home() {
+  const MAX_GUESSES = 6;
+
   const [answer, setAnswer] = useState(null);
   const [guesses, setGuesses] = useState([]);
   const [filterStrict, setFilterStrict] = useState(false);
@@ -26,7 +28,6 @@ export default function Home() {
     nationality: null,
   });
 
-  // Load daily target on mount
   useEffect(() => {
     const selectedAnswer = getDailyPlayer();
     setAnswer(selectedAnswer);
@@ -38,9 +39,16 @@ export default function Home() {
     const newGuesses = [guessedPlayer, ...guesses];
     setGuesses(newGuesses);
 
-    // Check Win condition
+    // 1. Check Win condition
     if (guessedPlayer.id === answer.id) {
       setIsWon(true);
+      setIsGameOver(true);
+      return;
+    }
+
+    // 2. Check Loss condition (6 max guesses limit)
+    if (newGuesses.length >= MAX_GUESSES) {
+      setIsWon(false);
       setIsGameOver(true);
       return;
     }
@@ -88,7 +96,7 @@ export default function Home() {
         />
 
         {/* Guess List */}
-        <GuessList guesses={guesses} answer={answer} />
+        <GuessList guesses={guesses} answer={answer} maxGuesses={MAX_GUESSES} />
 
         {/* End Game Modal */}
         {isGameOver && (

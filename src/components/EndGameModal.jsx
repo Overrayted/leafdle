@@ -2,12 +2,11 @@
 
 import { useState } from "react";
 
-export default function EndGameModal({ isWon, answer, guesses, onReset }) {
+export default function EndGameModal({ isWon, answer, guesses, maxGuesses = 6 }) {
   const [copied, setCopied] = useState(false);
-  const MAX_GUESSES = 6;
 
   const generateShareText = () => {
-    const scoreText = isWon ? `${guesses.length}/${MAX_GUESSES}` : `X/${MAX_GUESSES}`;
+    const scoreText = isWon ? `${guesses.length}/${maxGuesses}` : `X/${maxGuesses}`;
     const title = `Leafdle.ca ${new Date().toLocaleDateString()} ${scoreText}\n\n`;
     
     // Generates share grid
@@ -31,16 +30,16 @@ export default function EndGameModal({ isWon, answer, guesses, onReset }) {
         </h2>
         <p className="text-blue-200 text-sm mb-6">
           {isWon
-            ? `Guessed in ${guesses.length}/${MAX_GUESSES} tries!`
-            : `You ran out of guesses (0/${MAX_GUESSES}).`}
+            ? `Guessed in ${guesses.length}/${maxGuesses} tries!`
+            : `You ran out of guesses (0/${maxGuesses}).`}
         </p>
 
-        {/* Revealed Player Card */}
+        {/* Revealed Player Card with Full Stats */}
         <div className="bg-slate-900/90 rounded-2xl p-4 border border-blue-500/30 mb-6 flex items-center gap-4 text-left">
           <img
             src={answer.headshot}
             alt={answer.name}
-            className="w-16 h-16 rounded-full object-cover border-2 border-blue-400 bg-slate-800"
+            className="w-16 h-16 rounded-full object-cover border-2 border-blue-400 bg-slate-800 shrink-0"
             onError={(e) => {
               e.target.onerror = null;
               e.target.src =
@@ -52,8 +51,12 @@ export default function EndGameModal({ isWon, answer, guesses, onReset }) {
               Target Player
             </div>
             <div className="text-xl font-bold">{answer.name}</div>
-            <div className="text-xs text-slate-400">
-              #{answer.jerseyNumber || "N/A"} • {answer.position} • {answer.draftYear}
+            <div className="text-xs text-slate-300 leading-relaxed mt-1">
+              #{answer.jerseyNumber || "N/A"} • {answer.position} • {answer.nationality || "N/A"}
+              <br />
+              Drafted: {answer.draftYear || "Undrafted"} ({answer.draftTeam || "N/A"})
+              <br />
+              Status: {answer.currentTeam || "Retired/FA"} ({answer.isActive ? "Active" : "Inactive"})
             </div>
           </div>
         </div>
