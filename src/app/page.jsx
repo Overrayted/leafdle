@@ -2,108 +2,86 @@
 
 import { useState, useEffect } from "react";
 import Header from "../components/Header";
+import ModeSelector from "../components/ModeSelector";
 import SearchBar from "../components/SearchBar";
-import GuessList from "../components/GuessList";
+import GuessCard from "../components/GuessCard";
 import EndGameModal from "../components/EndGameModal";
-import CompareGuess from "../lib/CompareGuess";
-import { getDailyPlayer } from "../lib/getDailyPlayer";
-import players from "../data/players.json";
+import { MAX_GUESSES, MODES, getTraits, getDailyPlayer, compareGuess } from "../lib/game";
 
 export default function Home() {
-  const MAX_GUESSES = 6;
-
+  const [mode, setMode] = useState("leafs");
   const [answer, setAnswer] = useState(null);
-  const [guesses, setGuesses] = useState([]);
+  const [guesses, setGuesses] = useState([]); // newest guess first
   const [filterStrict, setFilterStrict] = useState(false);
-  const [isGameOver, setIsGameOver] = useState(false);
-  const [isWon, setIsWon] = useState(false);
+  const [showModal, setShowModal] = useState(true);
 
-  const [matchedTraits, setMatchedTraits] = useState({
-    position: null,
-    draftTeam: null,
-    draftYear: null,
-    currentTeam: null,
-    isActive: null,
-    jerseyNumber: null,
-    nationality: null,
-  });
-
+  // The daily player depends on the visitor's date, so pick it in the browser
   useEffect(() => {
-    const selectedAnswer = getDailyPlayer();
-    setAnswer(selectedAnswer);
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- the server build doesn't know today's date
+    setAnswer(getDailyPlayer("leafs"));
   }, []);
 
-  function addGuess(guessedPlayer) {
-    if (isGameOver || guesses.some((g) => g.id === guessedPlayer.id)) return;
+  if (!answer) return null;
 
-    const newGuesses = [guessedPlayer, ...guesses];
-    setGuesses(newGuesses);
+  const isWon = guesses.some((g) => g.id === answer.id);
+  const isGameOver = isWon || guesses.length >= MAX_GUESSES;
 
-    // 1. Check Win condition
-    if (guessedPlayer.id === answer.id) {
-      setIsWon(true);
-      setIsGameOver(true);
-      return;
-    }
-
-    // 2. Check Loss condition (6 max guesses limit)
-    if (newGuesses.length >= MAX_GUESSES) {
-      setIsWon(false);
-      setIsGameOver(true);
-      return;
-    }
-
-    // Update trait match state
-    const comparison = CompareGuess(guessedPlayer, answer);
-    setMatchedTraits((prev) => ({
-      position: comparison.position === "correct" ? answer.position : prev.position,
-      draftTeam: comparison.draftTeam === "correct" ? answer.draftTeam : prev.draftTeam,
-      draftYear: comparison.draftYear === "correct" ? answer.draftYear : prev.draftYear,
-      currentTeam: comparison.currentTeam === "correct" ? answer.currentTeam : prev.currentTeam,
-      isActive: comparison.isActive === "correct" ? answer.isActive : prev.isActive,
-      jerseyNumber: comparison.number === "correct" ? answer.jerseyNumber : prev.jerseyNumber,
-      nationality: comparison.nationality === "correct" ? answer.nationality : prev.nationality,
-    }));
+  function changeMode(newMode) {
+    if (newMode === mode) return;
+    setMode(newMode);
+    setAnswer(getDailyPlayer(newMode));
+    setGuesses([]);
+    setShowModal(true);
   }
 
-  const processedPlayers = players.map((player) => {
-    let matchesAllTraits = true;
-    if (matchedTraits.position && player.position !== matchedTraits.position) matchesAllTraits = false;
-    if (matchedTraits.draftTeam && player.draftTeam !== matchedTraits.draftTeam) matchesAllTraits = false;
-    if (matchedTraits.draftYear && player.draftYear !== matchedTraits.draftYear) matchesAllTraits = false;
-    if (matchedTraits.currentTeam && player.currentTeam !== matchedTraits.currentTeam) matchesAllTraits = false;
-    if (matchedTraits.isActive !== null && matchedTraits.isActive !== undefined && player.isActive !== matchedTraits.isActive) matchesAllTraits = false;
-    if (matchedTraits.jerseyNumber && player.jerseyNumber !== matchedTraits.jerseyNumber) matchesAllTraits = false;
-    if (matchedTraits.nationality && player.nationality !== matchedTraits.nationality) matchesAllTraits = false;
+  function addGuess(player) {
+    if (isGameOver || guesses.some((g) => g.id === player.id)) return;
+    setGuesses([player, ...guesses]);
+  }
 
-    return { ...player, isHighlighted: matchesAllTraits };
-  });
+  // Traits the player has already gotten right (green) on any guess
+  const knownTraits = getTraits(mode).filter(({ key }) =>
+    guesses.some((g) => compareGuess(g, answer)[key] === "correct")
+  );
 
-  if (!answer) return null;
+  // Highlight players in the search list who match every known trait
+  const players = MODES[mode].players.map((player) => ({
+    ...player,
+    isHighlighted: knownTraits.every(({ key }) => player[key] === answer[key]),
+  }));
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-[#00102e] via-[#00205B] to-slate-950 text-white p-4 sm:p-6">
       <div className="max-w-xl mx-auto">
         <Header />
 
-        {/* Search Input Bar */}
+        <ModeSelector mode={mode} onChange={changeMode} />
+
         <SearchBar
-          players={processedPlayers}
+          players={players}
           onSelect={addGuess}
           disabled={isGameOver}
           filterStrict={filterStrict}
           setFilterStrict={setFilterStrict}
         />
 
-        {/* Guess List */}
-        <GuessList guesses={guesses} answer={answer} maxGuesses={MAX_GUESSES} />
+        <div className="text-right text-blue-200/80 font-semibold text-sm mt-4 mb-3 px-1">
+          Guesses: <span className="text-white font-bold">{guesses.length}/{MAX_GUESSES}</span>
+        </div>
 
-        {/* End Game Modal */}
-        {isGameOver && (
+        <div className="space-y-4">
+          {guesses.map((player) => (
+            <GuessCard key={player.id} player={player} answer={answer} mode={mode} />
+          ))}
+        </div>
+
+        {isGameOver && showModal && (
           <EndGameModal
             isWon={isWon}
             answer={answer}
             guesses={guesses}
+            mode={mode}
+            onClose={() => setShowModal(false)}
           />
         )}
       </div>

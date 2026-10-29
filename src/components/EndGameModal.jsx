@@ -1,25 +1,34 @@
 "use client";
 
 import { useState } from "react";
+import { MAX_GUESSES, MODES, getTraits, compareGuess } from "../lib/game";
 
-export default function EndGameModal({ isWon, answer, guesses, maxGuesses = 6 }) {
+const SHARE_SQUARES = { correct: "🟩", close: "🟨", higher: "🟨", lower: "🟨", wrong: "⬛" };
+
+export default function EndGameModal({ isWon, answer, guesses, mode, onClose }) {
   const [copied, setCopied] = useState(false);
 
-  const generateShareText = () => {
-    const scoreText = isWon ? `${guesses.length}/${maxGuesses}` : `X/${maxGuesses}`;
-    const title = `Leafdle.ca ${new Date().toLocaleDateString()} ${scoreText}\n\n`;
-    
-    // Generates share grid
-    const grid = guesses.map(() => "🟦⬜🟦").join("\n");
+  function getShareText() {
+    const score = isWon ? `${guesses.length}/${MAX_GUESSES}` : `X/${MAX_GUESSES}`;
+    const title = `Leafdle.ca (${MODES[mode].shareLabel}) ${new Date().toLocaleDateString()} ${score}`;
 
-    return `${title}${grid}\n\nPlay at https://leafdle.ca`;
-  };
+    // One row of squares per guess, oldest first
+    const grid = [...guesses]
+      .reverse()
+      .map((guess) => {
+        const result = compareGuess(guess, answer);
+        return getTraits(mode).map(({ key }) => SHARE_SQUARES[result[key]]).join("");
+      })
+      .join("\n");
 
-  const handleCopy = () => {
-    navigator.clipboard.writeText(generateShareText());
+    return `${title}\n\n${grid}\n\nPlay at https://leafdle.ca`;
+  }
+
+  function handleCopy() {
+    navigator.clipboard.writeText(getShareText());
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
-  };
+  }
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-md p-4 animate-fade-in">
@@ -30,8 +39,8 @@ export default function EndGameModal({ isWon, answer, guesses, maxGuesses = 6 })
         </h2>
         <p className="text-blue-200 text-sm mb-6">
           {isWon
-            ? `Guessed in ${guesses.length}/${maxGuesses} tries!`
-            : `You ran out of guesses (0/${maxGuesses}).`}
+            ? `Guessed in ${guesses.length}/${MAX_GUESSES} tries!`
+            : `You ran out of guesses (0/${MAX_GUESSES}).`}
         </p>
 
         {/* Revealed Player Card with Full Stats */}
@@ -56,7 +65,8 @@ export default function EndGameModal({ isWon, answer, guesses, maxGuesses = 6 })
               <br />
               Drafted: {answer.draftYear || "Undrafted"} ({answer.draftTeam || "N/A"})
               <br />
-              Status: {answer.currentTeam || "Retired/FA"} ({answer.isActive ? "Active" : "Inactive"})
+              Team: {answer.currentTeam}
+              {answer.division && ` (${answer.division})`}
             </div>
           </div>
         </div>
@@ -68,6 +78,12 @@ export default function EndGameModal({ isWon, answer, guesses, maxGuesses = 6 })
             className="flex-1 bg-white text-[#00205B] font-bold py-3 rounded-xl hover:bg-blue-50 transition-all shadow-lg active:scale-95"
           >
             {copied ? "Copied to Clipboard!" : "Share Result 📋"}
+          </button>
+          <button
+            onClick={onClose}
+            className="px-5 border border-blue-300/40 text-blue-100 font-bold py-3 rounded-xl hover:bg-white/10 transition-all active:scale-95"
+          >
+            Close
           </button>
         </div>
       </div>
