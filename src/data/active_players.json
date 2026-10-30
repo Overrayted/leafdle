@@ -3066,20 +3066,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8477942.png"
   },
   {
-    "id": 8477946,
-    "name": "Dylan Larkin",
-    "position": "C",
-    "jerseyNumber": 71,
-    "currentTeam": "DET",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2014,
-    "draftTeam": "DET",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477946.png"
-  },
-  {
     "id": 8477948,
     "name": "Travis Sanheim",
     "position": "D",
@@ -4396,6 +4382,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478872.png"
   },
   {
+    "id": 8478873,
+    "name": "Troy Terry",
+    "position": "R",
+    "jerseyNumber": 19,
+    "currentTeam": "ANA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2015,
+    "draftTeam": "ANA",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8478873.png"
+  },
+  {
     "id": 8478874,
     "name": "Adam Gaudette",
     "position": "R",
@@ -5180,20 +5180,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479968.png"
   },
   {
-    "id": 8479972,
-    "name": "Mason Shaw",
-    "position": "C",
-    "jerseyNumber": 18,
-    "currentTeam": "MIN",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2017,
-    "draftTeam": "MIN",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8479972.png"
-  },
-  {
     "id": 8479973,
     "name": "Stuart Skinner",
     "position": "G",
@@ -5934,6 +5920,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480313.png"
+  },
+  {
+    "id": 8480326,
+    "name": "Sheldon Dries",
+    "position": "C",
+    "jerseyNumber": 15,
+    "currentTeam": "DET",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8480326.png"
   },
   {
     "id": 8480336,
@@ -8904,20 +8904,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8482775.png"
   },
   {
-    "id": 8482781,
-    "name": "Carson Lambos",
-    "position": "D",
-    "jerseyNumber": 55,
-    "currentTeam": "MIN",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2021,
-    "draftTeam": "MIN",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482781.png"
-  },
-  {
     "id": 8482802,
     "name": "Carter Mazur",
     "position": "L",
@@ -9658,20 +9644,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8483513.png"
-  },
-  {
-    "id": 8483514,
-    "name": "Matthew Seminoff",
-    "position": "R",
-    "jerseyNumber": 43,
-    "currentTeam": "DAL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "DAL",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8483514.png"
   },
   {
     "id": 8483515,
@@ -10416,20 +10388,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484227.png"
   },
   {
-    "id": 8484230,
-    "name": "Otto Stenberg",
-    "position": "C",
-    "jerseyNumber": 28,
-    "currentTeam": "STL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "STL",
-    "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484230.png"
-  },
-  {
     "id": 8484234,
     "name": "Aydar Suniev",
     "position": "L",
@@ -10484,6 +10442,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484258.png"
+  },
+  {
+    "id": 8484262,
+    "name": "Travis Mitchell",
+    "position": "D",
+    "jerseyNumber": 34,
+    "currentTeam": "ANA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484262.png"
   },
   {
     "id": 8484287,
@@ -11004,6 +10976,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8485395.png"
   },
   {
+    "id": 8485400,
+    "name": "Roger McQueen",
+    "position": "C",
+    "jerseyNumber": 95,
+    "currentTeam": "ANA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2025,
+    "draftTeam": "ANA",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8485400.png"
+  },
+  {
     "id": 8485402,
     "name": "Michael Misa",
     "position": "C",
@@ -11058,20 +11044,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8485512.png"
-  },
-  {
-    "id": 8485545,
-    "name": "Michal Postava",
-    "position": "G",
-    "jerseyNumber": 35,
-    "currentTeam": "DET",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "CZE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8485545.png"
   },
   {
     "id": 8485702,
