@@ -5404,6 +5404,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8480003.png"
   },
   {
+    "id": 8480007,
+    "name": "Jonas Rondbjerg",
+    "position": "R",
+    "jerseyNumber": 46,
+    "currentTeam": "VGK",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2017,
+    "draftTeam": "VGK",
+    "nationality": "DNK",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8480007.png"
+  },
+  {
     "id": 8480009,
     "name": "Eeli Tolvanen",
     "position": "R",
@@ -6438,6 +6452,20 @@
     "nationality": "SWE",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8480878.png"
+  },
+  {
+    "id": 8480879,
+    "name": "Jacob Bernard-Docker",
+    "position": "D",
+    "jerseyNumber": 25,
+    "currentTeam": "DET",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2018,
+    "draftTeam": "OTT",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8480879.png"
   },
   {
     "id": 8480891,
@@ -8876,6 +8904,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482765.png"
   },
   {
+    "id": 8482766,
+    "name": "William Stromgren",
+    "position": "L",
+    "jerseyNumber": 65,
+    "currentTeam": "CGY",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2021,
+    "draftTeam": "CGY",
+    "nationality": "SWE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482766.png"
+  },
+  {
     "id": 8482768,
     "name": "Fedor Svechkov",
     "position": "C",
@@ -9072,6 +9114,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8482929.png"
   },
   {
+    "id": 8482949,
+    "name": "Arsenii Sergeev",
+    "position": "G",
+    "jerseyNumber": 35,
+    "currentTeam": "CGY",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2021,
+    "draftTeam": "CGY",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482949.png"
+  },
+  {
     "id": 8482964,
     "name": "Arber Xhekaj",
     "position": "D",
@@ -9252,6 +9308,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8483447.png"
+  },
+  {
+    "id": 8483448,
+    "name": "Isaiah George",
+    "position": "D",
+    "jerseyNumber": 36,
+    "currentTeam": "NYI",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2022,
+    "draftTeam": "NYI",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8483448.png"
   },
   {
     "id": 8483450,
@@ -9686,20 +9756,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8483521.png"
-  },
-  {
-    "id": 8483523,
-    "name": "Cameron Whitehead",
-    "position": "G",
-    "jerseyNumber": 39,
-    "currentTeam": "VGK",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "VGK",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8483523.png"
   },
   {
     "id": 8483524,
@@ -10178,6 +10234,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484148.png"
   },
   {
+    "id": 8484149,
+    "name": "Gavin Brindley",
+    "position": "C",
+    "jerseyNumber": 54,
+    "currentTeam": "COL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "CBJ",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png"
+  },
+  {
     "id": 8484151,
     "name": "Quinton Burns",
     "position": "D",
@@ -10318,6 +10388,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484186.png"
   },
   {
+    "id": 8484188,
+    "name": "Theo Lindstein",
+    "position": "D",
+    "jerseyNumber": 4,
+    "currentTeam": "STL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "STL",
+    "nationality": "SWE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484188.png"
+  },
+  {
     "id": 8484197,
     "name": "Oliver Moore",
     "position": "C",
@@ -10358,20 +10442,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8484221.png"
-  },
-  {
-    "id": 8484223,
-    "name": "Axel Sandin-Pellikka",
-    "position": "D",
-    "jerseyNumber": 44,
-    "currentTeam": "DET",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2023,
-    "draftTeam": "DET",
-    "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484223.png"
   },
   {
     "id": 8484227,
@@ -10540,20 +10610,6 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484387.png"
-  },
-  {
-    "id": 8484388,
-    "name": "Daniil But",
-    "position": "L",
-    "jerseyNumber": 50,
-    "currentTeam": "UTA",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "ARI",
-    "nationality": "RUS",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484388.png"
   },
   {
     "id": 8484390,
@@ -10820,6 +10876,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484900.png"
+  },
+  {
+    "id": 8484901,
+    "name": "Jacob Quillan",
+    "position": "C",
+    "jerseyNumber": 62,
+    "currentTeam": "VAN",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484901.png"
   },
   {
     "id": 8484911,

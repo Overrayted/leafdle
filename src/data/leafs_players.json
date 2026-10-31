@@ -14690,14 +14690,14 @@
     "name": "Jacob Quillan",
     "position": "C",
     "jerseyNumber": 61,
-    "currentTeam": "Retired / Inactive",
-    "division": null,
-    "conference": null,
+    "currentTeam": "VAN",
+    "division": "Pacific",
+    "conference": "Western",
     "draftYear": null,
     "draftTeam": "N/A",
     "nationality": "CAN",
-    "isActive": false,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8484901.png"
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484901.png"
   },
   {
     "id": 8485467,
