@@ -4172,20 +4172,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478500.png"
   },
   {
-    "id": 8478502,
-    "name": "Dennis Gilbert",
-    "position": "D",
-    "jerseyNumber": 44,
-    "currentTeam": "BUF",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2015,
-    "draftTeam": "CHI",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8478502.png"
-  },
-  {
     "id": 8478507,
     "name": "John Marino",
     "position": "D",
@@ -5178,6 +5164,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479968.png"
+  },
+  {
+    "id": 8479972,
+    "name": "Mason Shaw",
+    "position": "C",
+    "jerseyNumber": 18,
+    "currentTeam": "MIN",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2017,
+    "draftTeam": "MIN",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8479972.png"
   },
   {
     "id": 8479973,
@@ -6762,6 +6762,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481068.png"
   },
   {
+    "id": 8481077,
+    "name": "John Leonard",
+    "position": "L",
+    "jerseyNumber": 43,
+    "currentTeam": "DET",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2018,
+    "draftTeam": "SJS",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481077.png"
+  },
+  {
     "id": 8481122,
     "name": "Simon Benoit",
     "position": "D",
@@ -6928,6 +6942,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8481524.png"
+  },
+  {
+    "id": 8481525,
+    "name": "Matthew Robertson",
+    "position": "D",
+    "jerseyNumber": 29,
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2019,
+    "draftTeam": "NYR",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8481525.png"
   },
   {
     "id": 8481527,
@@ -9310,20 +9338,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8483447.png"
   },
   {
-    "id": 8483448,
-    "name": "Isaiah George",
-    "position": "D",
-    "jerseyNumber": 36,
-    "currentTeam": "NYI",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2022,
-    "draftTeam": "NYI",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8483448.png"
-  },
-  {
     "id": 8483450,
     "name": "Ryan Greene",
     "position": "C",
@@ -9518,20 +9532,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8483485.png"
-  },
-  {
-    "id": 8483487,
-    "name": "Rutger McGroarty",
-    "position": "R",
-    "jerseyNumber": 2,
-    "currentTeam": "PIT",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2022,
-    "draftTeam": "WPG",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8483487.png"
   },
   {
     "id": 8483489,
@@ -10066,20 +10066,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8483752.png"
   },
   {
-    "id": 8483760,
-    "name": "Hunter McDonald",
-    "position": "D",
-    "jerseyNumber": 19,
-    "currentTeam": "PHI",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2022,
-    "draftTeam": "PHI",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8483760.png"
-  },
-  {
     "id": 8483766,
     "name": "David Spacek",
     "position": "D",
@@ -10232,20 +10218,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484148.png"
-  },
-  {
-    "id": 8484149,
-    "name": "Gavin Brindley",
-    "position": "C",
-    "jerseyNumber": 54,
-    "currentTeam": "COL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "CBJ",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png"
   },
   {
     "id": 8484151,
