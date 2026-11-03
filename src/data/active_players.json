@@ -742,20 +742,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8475314.png"
   },
   {
-    "id": 8475324,
-    "name": "Nick Jensen",
-    "position": "D",
-    "jerseyNumber": 4,
-    "currentTeam": "ANA",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2009,
-    "draftTeam": "DET",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8475324.png"
-  },
-  {
     "id": 8475343,
     "name": "Nic Dowd",
     "position": "C",
@@ -1216,6 +1202,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8476312.png"
+  },
+  {
+    "id": 8476316,
+    "name": "Laurent Brossoit",
+    "position": "G",
+    "jerseyNumber": 31,
+    "currentTeam": "ANA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2011,
+    "draftTeam": "CGY",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8476316.png"
   },
   {
     "id": 8476331,
@@ -4844,20 +4844,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8479387.png"
   },
   {
-    "id": 8479390,
-    "name": "Taylor Raddysh",
-    "position": "R",
-    "jerseyNumber": 14,
-    "currentTeam": "NYR",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2016,
-    "draftTeam": "TBL",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479390.png"
-  },
-  {
     "id": 8479394,
     "name": "Carter Hart",
     "position": "G",
@@ -8389,7 +8375,7 @@
     "id": 8482465,
     "name": "Rémi Poirier",
     "position": "G",
-    "jerseyNumber": null,
+    "jerseyNumber": 1,
     "currentTeam": "WSH",
     "division": "Metropolitan",
     "conference": "Eastern",
@@ -8806,20 +8792,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8482731.png"
   },
   {
-    "id": 8482733,
-    "name": "Logan Mailloux",
-    "position": "D",
-    "jerseyNumber": 23,
-    "currentTeam": "STL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2021,
-    "draftTeam": "MTL",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8482733.png"
-  },
-  {
     "id": 8482737,
     "name": "Zachary Bolduc",
     "position": "R",
@@ -9114,6 +9086,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482874.png"
   },
   {
+    "id": 8482877,
+    "name": "Jaroslav Chmelar",
+    "position": "R",
+    "jerseyNumber": 49,
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2021,
+    "draftTeam": "NYR",
+    "nationality": "CZE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482877.png"
+  },
+  {
     "id": 8482896,
     "name": "Tyson Kozak",
     "position": "C",
@@ -9224,20 +9210,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8483398.png"
-  },
-  {
-    "id": 8483406,
-    "name": "Taylor Ward",
-    "position": "R",
-    "jerseyNumber": 17,
-    "currentTeam": "LAK",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8483406.png"
   },
   {
     "id": 8483424,
@@ -10447,7 +10419,7 @@
     "id": 8484241,
     "name": "Matthew Wood",
     "position": "R",
-    "jerseyNumber": null,
+    "jerseyNumber": 71,
     "currentTeam": "SEA",
     "division": "Pacific",
     "conference": "Western",
@@ -10822,20 +10794,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484873.png"
   },
   {
-    "id": 8484900,
-    "name": "Cooper Black",
-    "position": "G",
-    "jerseyNumber": 31,
-    "currentTeam": "FLA",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484900.png"
-  },
-  {
     "id": 8484901,
     "name": "Jacob Quillan",
     "position": "C",
@@ -11074,6 +11032,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8485512.png"
   },
   {
+    "id": 8485554,
+    "name": "Dillon Boucher",
+    "position": "L",
+    "jerseyNumber": null,
+    "currentTeam": "CHI",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8485554.png"
+  },
+  {
     "id": 8485702,
     "name": "Maxim Shabanov",
     "position": "R",
@@ -11116,20 +11088,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8486025.png"
   },
   {
-    "id": 8486052,
-    "name": "Nikita Klepov",
-    "position": "R",
-    "jerseyNumber": 40,
-    "currentTeam": "ANA",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2026,
-    "draftTeam": "ANA",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8486052.png"
-  },
-  {
     "id": 8486067,
     "name": "Gavin McKenna",
     "position": "L",
@@ -11170,6 +11128,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8486161.png"
+  },
+  {
+    "id": 8486169,
+    "name": "Jake Livanavage",
+    "position": "D",
+    "jerseyNumber": 4,
+    "currentTeam": "PIT",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8486169.png"
   },
   {
     "id": 8486171,
