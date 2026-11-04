@@ -1022,20 +1022,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8475794.png"
   },
   {
-    "id": 8475795,
-    "name": "Dylan McIlrath",
-    "position": "D",
-    "jerseyNumber": 52,
-    "currentTeam": "WSH",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2010,
-    "draftTeam": "NYR",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475795.png"
-  },
-  {
     "id": 8475798,
     "name": "Mikael Granlund",
     "position": "C",
@@ -4830,20 +4816,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479385.png"
   },
   {
-    "id": 8479387,
-    "name": "Keaton Middleton",
-    "position": "D",
-    "jerseyNumber": 67,
-    "currentTeam": "COL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2016,
-    "draftTeam": "TOR",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8479387.png"
-  },
-  {
     "id": 8479394,
     "name": "Carter Hart",
     "position": "G",
@@ -5166,20 +5138,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479968.png"
   },
   {
-    "id": 8479972,
-    "name": "Mason Shaw",
-    "position": "C",
-    "jerseyNumber": 18,
-    "currentTeam": "MIN",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2017,
-    "draftTeam": "MIN",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8479972.png"
-  },
-  {
     "id": 8479973,
     "name": "Stuart Skinner",
     "position": "G",
@@ -5486,20 +5444,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8480018.png"
-  },
-  {
-    "id": 8480021,
-    "name": "Jack Studnicka",
-    "position": "C",
-    "jerseyNumber": 23,
-    "currentTeam": "PHI",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2017,
-    "draftTeam": "BOS",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8480021.png"
   },
   {
     "id": 8480022,
@@ -9870,6 +9814,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8483669.png"
   },
   {
+    "id": 8483675,
+    "name": "Kenny Connors",
+    "position": "C",
+    "jerseyNumber": 34,
+    "currentTeam": "LAK",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2022,
+    "draftTeam": "LAK",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8483675.png"
+  },
+  {
     "id": 8483676,
     "name": "Stephen Halliday",
     "position": "C",
@@ -10570,6 +10528,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484403.png"
   },
   {
+    "id": 8484421,
+    "name": "Eric Pohlkamp",
+    "position": "D",
+    "jerseyNumber": 48,
+    "currentTeam": "SJS",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "SJS",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484421.png"
+  },
+  {
     "id": 8484471,
     "name": "Emmitt Finnie",
     "position": "C",
@@ -11035,7 +11007,7 @@
     "id": 8485554,
     "name": "Dillon Boucher",
     "position": "L",
-    "jerseyNumber": null,
+    "jerseyNumber": 36,
     "currentTeam": "CHI",
     "division": "Central",
     "conference": "Western",
