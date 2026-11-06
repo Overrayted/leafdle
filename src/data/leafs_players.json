@@ -13262,14 +13262,14 @@
     "name": "Ben Hutton",
     "position": "D",
     "jerseyNumber": 55,
-    "currentTeam": "Retired / Inactive",
-    "division": null,
-    "conference": null,
+    "currentTeam": "NYI",
+    "division": "Metropolitan",
+    "conference": "Eastern",
     "draftYear": 2012,
     "draftTeam": "VAN",
     "nationality": "CAN",
-    "isActive": false,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20202021/TOR/8477018.png"
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8477018.png"
   },
   {
     "id": 8477021,
@@ -13808,14 +13808,14 @@
     "name": "Steven Lorentz",
     "position": "C",
     "jerseyNumber": 18,
-    "currentTeam": "Retired / Inactive",
-    "division": null,
-    "conference": null,
+    "currentTeam": "CBJ",
+    "division": "Metropolitan",
+    "conference": "Eastern",
     "draftYear": 2015,
     "draftTeam": "CAR",
     "nationality": "CAN",
-    "isActive": false,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478904.png"
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478904.png"
   },
   {
     "id": 8478975,
@@ -14424,14 +14424,14 @@
     "name": "Emil Andrae",
     "position": "D",
     "jerseyNumber": null,
-    "currentTeam": "CBJ",
-    "division": "Metropolitan",
-    "conference": "Eastern",
+    "currentTeam": "Retired / Inactive",
+    "division": null,
+    "conference": null,
     "draftYear": 2020,
     "draftTeam": "PHI",
     "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8482126.png"
+    "isActive": false,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482126.png"
   },
   {
     "id": 8482130,

@@ -2268,6 +2268,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8477015.png"
   },
   {
+    "id": 8477018,
+    "name": "Ben Hutton",
+    "position": "D",
+    "jerseyNumber": 71,
+    "currentTeam": "NYI",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2012,
+    "draftTeam": "VAN",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8477018.png"
+  },
+  {
     "id": 8477021,
     "name": "Alexander Kerfoot",
     "position": "C",
@@ -3402,20 +3416,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478042.png"
   },
   {
-    "id": 8478046,
-    "name": "Danton Heinen",
-    "position": "L",
-    "jerseyNumber": 58,
-    "currentTeam": "CBJ",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2014,
-    "draftTeam": "BOS",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478046.png"
-  },
-  {
     "id": 8478047,
     "name": "Michael Bunting",
     "position": "L",
@@ -4410,6 +4410,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478891.png"
   },
   {
+    "id": 8478904,
+    "name": "Steven Lorentz",
+    "position": "C",
+    "jerseyNumber": 18,
+    "currentTeam": "CBJ",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2015,
+    "draftTeam": "CAR",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478904.png"
+  },
+  {
     "id": 8478911,
     "name": "Matt Roy",
     "position": "D",
@@ -5122,6 +5136,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479968.png"
+  },
+  {
+    "id": 8479972,
+    "name": "Mason Shaw",
+    "position": "C",
+    "jerseyNumber": 18,
+    "currentTeam": "MIN",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2017,
+    "draftTeam": "MIN",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8479972.png"
   },
   {
     "id": 8479973,
@@ -7896,20 +7924,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482124.png"
   },
   {
-    "id": 8482126,
-    "name": "Emil Andrae",
-    "position": "D",
-    "jerseyNumber": 36,
-    "currentTeam": "CBJ",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2020,
-    "draftTeam": "PHI",
-    "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8482126.png"
-  },
-  {
     "id": 8482137,
     "name": "Yaroslav Askarov",
     "position": "G",
@@ -9044,20 +9058,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8482929.png"
   },
   {
-    "id": 8482949,
-    "name": "Arsenii Sergeev",
-    "position": "G",
-    "jerseyNumber": 35,
-    "currentTeam": "CGY",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2021,
-    "draftTeam": "CGY",
-    "nationality": "RUS",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482949.png"
-  },
-  {
     "id": 8482964,
     "name": "Arber Xhekaj",
     "position": "D",
@@ -9196,6 +9196,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8483432.png"
+  },
+  {
+    "id": 8483442,
+    "name": "Jagger Firkus",
+    "position": "R",
+    "jerseyNumber": 57,
+    "currentTeam": "SEA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2022,
+    "draftTeam": "SEA",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483442.png"
   },
   {
     "id": 8483445,
@@ -10960,6 +10974,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8485414.png"
+  },
+  {
+    "id": 8485469,
+    "name": "Jack Williams",
+    "position": "C",
+    "jerseyNumber": 92,
+    "currentTeam": "CBJ",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8485469.png"
   },
   {
     "id": 8485512,
