@@ -112,20 +112,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8473422.png"
   },
   {
-    "id": 8473503,
-    "name": "James Reimer",
-    "position": "G",
-    "jerseyNumber": 47,
-    "currentTeam": "NYR",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2006,
-    "draftTeam": "TOR",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8473503.png"
-  },
-  {
     "id": 8473512,
     "name": "Claude Giroux",
     "position": "R",
@@ -2168,20 +2154,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8476945.png"
-  },
-  {
-    "id": 8476952,
-    "name": "Dominic Toninato",
-    "position": "C",
-    "jerseyNumber": 25,
-    "currentTeam": "CHI",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2012,
-    "draftTeam": "TOR",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8476952.png"
   },
   {
     "id": 8476958,
@@ -8400,6 +8372,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8482511.png"
   },
   {
+    "id": 8482515,
+    "name": "Artur Akhtyamov",
+    "position": "G",
+    "jerseyNumber": 70,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "TOR",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482515.png"
+  },
+  {
     "id": 8482516,
     "name": "Matthew Kessel",
     "position": "D",
@@ -8720,6 +8706,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8482731.png"
+  },
+  {
+    "id": 8482733,
+    "name": "Logan Mailloux",
+    "position": "D",
+    "jerseyNumber": 23,
+    "currentTeam": "STL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2021,
+    "draftTeam": "MTL",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8482733.png"
   },
   {
     "id": 8482737,
@@ -10094,20 +10094,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484148.png"
   },
   {
-    "id": 8484151,
-    "name": "Quinton Burns",
-    "position": "D",
-    "jerseyNumber": 42,
-    "currentTeam": "STL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "STL",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484151.png"
-  },
-  {
     "id": 8484153,
     "name": "Leo Carlsson",
     "position": "C",
@@ -10850,6 +10836,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484999.png"
   },
   {
+    "id": 8485010,
+    "name": "Gregor Biber",
+    "position": "D",
+    "jerseyNumber": 94,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2024,
+    "draftTeam": "UTA",
+    "nationality": "AUT",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8485010.png"
+  },
+  {
     "id": 8485366,
     "name": "Matthew Schaefer",
     "position": "D",
@@ -11114,20 +11114,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8486161.png"
-  },
-  {
-    "id": 8486169,
-    "name": "Jake Livanavage",
-    "position": "D",
-    "jerseyNumber": 4,
-    "currentTeam": "PIT",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8486169.png"
   },
   {
     "id": 8486171,

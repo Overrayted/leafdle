@@ -11820,14 +11820,14 @@
     "name": "James Reimer",
     "position": "G",
     "jerseyNumber": 34,
-    "currentTeam": "NYR",
-    "division": "Metropolitan",
-    "conference": "Eastern",
+    "currentTeam": "Retired / Inactive",
+    "division": null,
+    "conference": null,
     "draftYear": 2006,
     "draftTeam": "TOR",
     "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8473503.png"
+    "isActive": false,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20152016/TOR/8473503.png"
   },
   {
     "id": 8473523,
@@ -14536,14 +14536,14 @@
     "name": "Artur Akhtyamov",
     "position": "G",
     "jerseyNumber": 70,
-    "currentTeam": "Retired / Inactive",
-    "division": null,
-    "conference": null,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
     "draftYear": 2020,
     "draftTeam": "TOR",
     "nationality": "RUS",
-    "isActive": false,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8482515.png"
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482515.png"
   },
   {
     "id": 8482634,
