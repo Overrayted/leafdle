@@ -14070,20 +14070,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20222023/TOR/8479944.png"
   },
   {
-    "id": 8479968,
-    "name": "Vinni Lettieri",
-    "position": "C",
-    "jerseyNumber": 71,
-    "currentTeam": "TOR",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8479968.png"
-  },
-  {
     "id": 8479982,
     "name": "Conor Timmins",
     "position": "D",
