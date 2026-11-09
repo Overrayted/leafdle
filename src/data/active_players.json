@@ -2268,20 +2268,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8477021.png"
   },
   {
-    "id": 8477035,
-    "name": "Matt Tomkins",
-    "position": "G",
-    "jerseyNumber": 90,
-    "currentTeam": "EDM",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2012,
-    "draftTeam": "CHI",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8477035.png"
-  },
-  {
     "id": 8477070,
     "name": "Liam O'Brien",
     "position": "C",
@@ -5656,6 +5642,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8480145.png"
   },
   {
+    "id": 8480157,
+    "name": "Calle Rosen",
+    "position": "D",
+    "jerseyNumber": 43,
+    "currentTeam": "STL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "SWE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8480157.png"
+  },
+  {
     "id": 8480185,
     "name": "Eetu Luostarinen",
     "position": "C",
@@ -6650,20 +6650,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481068.png"
   },
   {
-    "id": 8481077,
-    "name": "John Leonard",
-    "position": "L",
-    "jerseyNumber": 43,
-    "currentTeam": "DET",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2018,
-    "draftTeam": "SJS",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481077.png"
-  },
-  {
     "id": 8481122,
     "name": "Simon Benoit",
     "position": "D",
@@ -6704,6 +6690,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8481161.png"
+  },
+  {
+    "id": 8481167,
+    "name": "Brayden Pachal",
+    "position": "D",
+    "jerseyNumber": 94,
+    "currentTeam": "CGY",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481167.png"
   },
   {
     "id": 8481186,
@@ -7476,6 +7476,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8481732.png"
   },
   {
+    "id": 8481743,
+    "name": "Marc Del Gaizo",
+    "position": "D",
+    "jerseyNumber": 27,
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2019,
+    "draftTeam": "NSH",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8481743.png"
+  },
+  {
     "id": 8481754,
     "name": "Nikita Nesterenko",
     "position": "C",
@@ -7868,6 +7882,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482122.png"
   },
   {
+    "id": 8482123,
+    "name": "Drew Commesso",
+    "position": "G",
+    "jerseyNumber": 33,
+    "currentTeam": "CHI",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2020,
+    "draftTeam": "CHI",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8482123.png"
+  },
+  {
     "id": 8482124,
     "name": "Quinton Byfield",
     "position": "R",
@@ -8006,20 +8034,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8482159.png"
-  },
-  {
-    "id": 8482160,
-    "name": "Martin Chromiak",
-    "position": "R",
-    "jerseyNumber": 42,
-    "currentTeam": "LAK",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2020,
-    "draftTeam": "LAK",
-    "nationality": "SVK",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482160.png"
   },
   {
     "id": 8482165,
@@ -8263,15 +8277,15 @@
     "id": 8482465,
     "name": "Rémi Poirier",
     "position": "G",
-    "jerseyNumber": 1,
-    "currentTeam": "WSH",
-    "division": "Metropolitan",
-    "conference": "Eastern",
+    "jerseyNumber": 31,
+    "currentTeam": "DAL",
+    "division": "Central",
+    "conference": "Western",
     "draftYear": 2020,
     "draftTeam": "DAL",
     "nationality": "CAN",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8482465.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8482465.png"
   },
   {
     "id": 8482470,
@@ -9044,6 +9058,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8482929.png"
   },
   {
+    "id": 8482942,
+    "name": "Alex Gagne",
+    "position": "D",
+    "jerseyNumber": 45,
+    "currentTeam": "COL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2021,
+    "draftTeam": "TBL",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482942.png"
+  },
+  {
     "id": 8482964,
     "name": "Arber Xhekaj",
     "position": "D",
@@ -9070,6 +9098,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8482982.png"
+  },
+  {
+    "id": 8483012,
+    "name": "Logan Morrison",
+    "position": "C",
+    "jerseyNumber": 96,
+    "currentTeam": "SEA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483012.png"
   },
   {
     "id": 8483017,
@@ -9140,20 +9182,6 @@
     "nationality": "CHE",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8483425.png"
-  },
-  {
-    "id": 8483428,
-    "name": "Filip Bystedt",
-    "position": "C",
-    "jerseyNumber": 18,
-    "currentTeam": "SJS",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "SJS",
-    "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8483428.png"
   },
   {
     "id": 8483431,
@@ -9406,6 +9434,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8483485.png"
+  },
+  {
+    "id": 8483487,
+    "name": "Rutger McGroarty",
+    "position": "R",
+    "jerseyNumber": 2,
+    "currentTeam": "PIT",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2022,
+    "draftTeam": "WPG",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8483487.png"
   },
   {
     "id": 8483489,
@@ -10122,20 +10164,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8484158.png"
   },
   {
-    "id": 8484160,
-    "name": "Nate Danielson",
-    "position": "C",
-    "jerseyNumber": 29,
-    "currentTeam": "DET",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2023,
-    "draftTeam": "DET",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484160.png"
-  },
-  {
     "id": 8484164,
     "name": "Dalibor Dvorsky",
     "position": "R",
@@ -10204,20 +10232,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484186.png"
-  },
-  {
-    "id": 8484188,
-    "name": "Theo Lindstein",
-    "position": "D",
-    "jerseyNumber": 4,
-    "currentTeam": "STL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "STL",
-    "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484188.png"
   },
   {
     "id": 8484197,
@@ -10568,20 +10582,6 @@
     "nationality": "BLR",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8484783.png"
-  },
-  {
-    "id": 8484790,
-    "name": "Adam Jiricek",
-    "position": "D",
-    "jerseyNumber": 36,
-    "currentTeam": "STL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2024,
-    "draftTeam": "STL",
-    "nationality": "CZE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484790.png"
   },
   {
     "id": 8484794,

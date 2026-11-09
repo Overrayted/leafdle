@@ -14116,14 +14116,14 @@
     "name": "Calle Rosen",
     "position": "D",
     "jerseyNumber": 48,
-    "currentTeam": "Retired / Inactive",
-    "division": null,
-    "conference": null,
+    "currentTeam": "STL",
+    "division": "Central",
+    "conference": "Western",
     "draftYear": null,
     "draftTeam": "N/A",
     "nationality": "SWE",
-    "isActive": false,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20192020/TOR/8480157.png"
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8480157.png"
   },
   {
     "id": 8480158,
