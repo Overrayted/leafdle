@@ -22,7 +22,7 @@ export default function EndGameModal({ isWon, answer, guesses, mode, theme, onCl
       })
       .join("\n");
 
-    return `${title}\n\n${grid}\n\nPlay at https://leafdle.ca`;
+    return `${title}\n\n${grid}\n\nPlay at ${MODES[mode].shareUrl}`;
   }
 
   function handleCopy() {

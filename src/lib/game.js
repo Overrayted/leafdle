@@ -4,8 +4,8 @@ import activePlayers from "../data/active_players.json";
 export const MAX_GUESSES = 8;
 
 export const MODES = {
-  leafs: { label: "Leafs All-Time", shareTitle: "Leafdle.ca (Leafs Mode)", players: leafsPlayers },
-  active: { label: "Active NHLers", shareTitle: "NHLdle Mode", players: activePlayers },
+  leafs: { label: "Leafs All-Time", shareTitle: "Leafdle.ca (Leafs Mode)", shareUrl: "https://leafdle.ca", players: leafsPlayers },
+  active: { label: "Active NHLers", shareTitle: "NHLdle Mode", shareUrl: "https://leafdle.ca/nhl", players: activePlayers },
 };
 
 // The clue tiles shown for every guess, in display order.
