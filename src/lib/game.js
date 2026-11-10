@@ -4,33 +4,39 @@ import activePlayers from "../data/active_players.json";
 export const MAX_GUESSES = 8;
 
 export const MODES = {
-  leafs: { label: "Leafs All-Time", shareLabel: "Leafs Mode", players: leafsPlayers },
-  active: { label: "Active NHLers", shareLabel: "Active Mode", players: activePlayers },
+  leafs: { label: "Leafs All-Time", shareTitle: "Leafdle.ca (Leafs Mode)", players: leafsPlayers },
+  active: { label: "Active NHLers", shareTitle: "NHLdle Mode", players: activePlayers },
 };
 
 // The clue tiles shown for every guess, in display order.
 // `leafsOnly` tiles are hidden in Active mode (everyone there is active).
+// `activeOnly` tiles are hidden in Leafs mode (most Leafs are retired).
 export const TRAITS = [
   { key: "position", label: "Pos" },
   { key: "draftTeam", label: "Draft Team" },
   { key: "draftYear", label: "Draft Yr" },
   { key: "currentTeam", label: "Team" },
-  { key: "division", label: "Division" },
+  { key: "division", label: "Division", activeOnly: true },
   { key: "isActive", label: "Status", leafsOnly: true },
   { key: "jerseyNumber", label: "Number" },
   { key: "nationality", label: "Nation" },
 ];
 
 export function getTraits(mode) {
-  return TRAITS.filter((trait) => mode === "leafs" || !trait.leafsOnly);
+  return TRAITS.filter((trait) => (mode === "leafs" ? !trait.activeOnly : !trait.leafsOnly));
+}
+
+// Today's date as YYYY-M-D in the visitor's timezone
+export function getTodayKey() {
+  const today = new Date();
+  return `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
 }
 
 // Picks the same player for everyone on a given day. The mode is part of
 // the seed so each mode gets its own daily player.
 export function getDailyPlayer(mode) {
   const players = MODES[mode].players;
-  const today = new Date();
-  const seed = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}-${mode}`;
+  const seed = `${getTodayKey()}-${mode}`;
 
   let hash = 0;
   for (let i = 0; i < seed.length; i++) {
@@ -71,4 +77,17 @@ function compareDivision(guess, answer) {
   if (guess.division === answer.division) return "correct";
   if (guess.conference && guess.conference === answer.conference) return "close";
   return "wrong";
+}
+
+// True if `candidate` could still be the answer: every clue the player has
+// seen so far would look exactly the same if `candidate` were the answer.
+// This covers every trait automatically — greens, grays, ↑/↓ ranges and
+// the yellow "same conference" division clue.
+export function fitsClues(candidate, guesses, answer, mode) {
+  const keys = getTraits(mode).map(({ key }) => key);
+  return guesses.every((guess) => {
+    const actual = compareGuess(guess, answer);
+    const ifCandidate = compareGuess(guess, candidate);
+    return keys.every((key) => actual[key] === ifCandidate[key]);
+  });
 }

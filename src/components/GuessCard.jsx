@@ -22,13 +22,13 @@ function formatValue(key, value, status) {
   return `${value}${arrow}`;
 }
 
-export default function GuessCard({ player, answer, mode }) {
+export default function GuessCard({ player, answer, mode, theme }) {
   const result = compareGuess(player, answer);
   const traits = getTraits(mode);
   const flag = FLAG_CODES[player.nationality] || player.nationality?.substring(0, 2).toLowerCase();
 
   return (
-    <div className="w-full bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-xl backdrop-blur-sm">
+    <div className={`w-full ${theme.card} border rounded-2xl p-5 shadow-xl backdrop-blur-sm`}>
       <div className="flex items-center gap-4 mb-4">
         <img
           src={player.headshot}
@@ -46,7 +46,7 @@ export default function GuessCard({ player, answer, mode }) {
         {traits.map(({ key, label }, i) => (
           <div
             key={key}
-            // Active mode has 7 tiles, so the last one stretches to fill its row
+            // With 7 tiles the last one stretches to fill its row
             className={`flex flex-col items-center justify-center p-2 rounded-xl text-center ${TILE_COLORS[result[key]]} ${
               i === traits.length - 1 && traits.length === 7 ? "col-span-2" : ""
             }`}
