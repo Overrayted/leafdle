@@ -12674,14 +12674,14 @@
     "name": "Justin Holl",
     "position": "D",
     "jerseyNumber": 3,
-    "currentTeam": "Retired / Inactive",
-    "division": null,
-    "conference": null,
+    "currentTeam": "WSH",
+    "division": "Metropolitan",
+    "conference": "Eastern",
     "draftYear": 2010,
     "draftTeam": "CHI",
     "nationality": "USA",
-    "isActive": false,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20222023/TOR/8475718.png"
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475718.png"
   },
   {
     "id": 8475735,
@@ -14530,6 +14530,20 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482515.png"
+  },
+  {
+    "id": 8482525,
+    "name": "Ryan Tverberg",
+    "position": "C",
+    "jerseyNumber": 77,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "TOR",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482525.png"
   },
   {
     "id": 8482634,

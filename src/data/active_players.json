@@ -840,6 +840,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8475717.png"
   },
   {
+    "id": 8475718,
+    "name": "Justin Holl",
+    "position": "D",
+    "jerseyNumber": 4,
+    "currentTeam": "WSH",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2010,
+    "draftTeam": "CHI",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475718.png"
+  },
+  {
     "id": 8475722,
     "name": "Jason Zucker",
     "position": "L",
@@ -8400,6 +8414,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8482516.png"
   },
   {
+    "id": 8482525,
+    "name": "Ryan Tverberg",
+    "position": "C",
+    "jerseyNumber": 77,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "TOR",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482525.png"
+  },
+  {
     "id": 8482641,
     "name": "Matt Kiersted",
     "position": "D",
@@ -8944,20 +8972,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482809.png"
-  },
-  {
-    "id": 8482821,
-    "name": "Arvid Soderblom",
-    "position": "G",
-    "jerseyNumber": 40,
-    "currentTeam": "CHI",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "SWE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8482821.png"
   },
   {
     "id": 8482858,
@@ -9954,20 +9968,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8483733.png"
   },
   {
-    "id": 8483752,
-    "name": "Dominic James",
-    "position": "C",
-    "jerseyNumber": 17,
-    "currentTeam": "TBL",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2022,
-    "draftTeam": "CHI",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8483752.png"
-  },
-  {
     "id": 8483766,
     "name": "David Spacek",
     "position": "D",
@@ -10568,6 +10568,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484768.png"
+  },
+  {
+    "id": 8484770,
+    "name": "Sam O'Reilly",
+    "position": "R",
+    "jerseyNumber": 23,
+    "currentTeam": "TBL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2024,
+    "draftTeam": "EDM",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8484770.png"
   },
   {
     "id": 8484783,
