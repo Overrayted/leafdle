@@ -896,20 +896,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475745.png"
   },
   {
-    "id": 8475752,
-    "name": "Tyler Pitlick",
-    "position": "C",
-    "jerseyNumber": 19,
-    "currentTeam": "MIN",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2010,
-    "draftTeam": "EDM",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8475752.png"
-  },
-  {
     "id": 8475753,
     "name": "Justin Faulk",
     "position": "D",
@@ -3850,6 +3836,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8478444.png"
   },
   {
+    "id": 8478446,
+    "name": "Glenn Gawdin",
+    "position": "C",
+    "jerseyNumber": 15,
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2015,
+    "draftTeam": "STL",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8478446.png"
+  },
+  {
     "id": 8478449,
     "name": "Roope Hintz",
     "position": "C",
@@ -5589,15 +5589,15 @@
     "id": 8480075,
     "name": "Cameron Crotty",
     "position": "D",
-    "jerseyNumber": 34,
-    "currentTeam": "MIN",
-    "division": "Central",
+    "jerseyNumber": 51,
+    "currentTeam": "VAN",
+    "division": "Pacific",
     "conference": "Western",
     "draftYear": 2017,
     "draftTeam": "ARI",
     "nationality": "CAN",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8480075.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8480075.png"
   },
   {
     "id": 8480078,
@@ -7082,20 +7082,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8481563.png"
-  },
-  {
-    "id": 8481567,
-    "name": "Henry Thrun",
-    "position": "D",
-    "jerseyNumber": 8,
-    "currentTeam": "WPG",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2019,
-    "draftTeam": "ANA",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8481567.png"
   },
   {
     "id": 8481568,
@@ -9982,20 +9968,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8483766.png"
   },
   {
-    "id": 8483768,
-    "name": "Victor Mancini",
-    "position": "D",
-    "jerseyNumber": 90,
-    "currentTeam": "VAN",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "NYR",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8483768.png"
-  },
-  {
     "id": 8483771,
     "name": "Sandis Vilmanis",
     "position": "L",
@@ -10246,20 +10218,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8484197.png"
-  },
-  {
-    "id": 8484201,
-    "name": "Nico Myatovic",
-    "position": "L",
-    "jerseyNumber": 48,
-    "currentTeam": "ANA",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "ANA",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484201.png"
   },
   {
     "id": 8484210,
