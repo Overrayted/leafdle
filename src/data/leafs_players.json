@@ -14434,6 +14434,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8482130.png"
   },
   {
+    "id": 8482153,
+    "name": "Brendan Brisson",
+    "position": "C",
+    "jerseyNumber": 90,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "VGK",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482153.png"
+  },
+  {
     "id": 8482158,
     "name": "Topi Niemela",
     "position": "D",

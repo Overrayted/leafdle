@@ -7994,6 +7994,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8482149.png"
   },
   {
+    "id": 8482153,
+    "name": "Brendan Brisson",
+    "position": "C",
+    "jerseyNumber": 90,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "VGK",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482153.png"
+  },
+  {
     "id": 8482155,
     "name": "Alex Laferriere",
     "position": "R",
@@ -9814,20 +9828,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8483669.png"
   },
   {
-    "id": 8483675,
-    "name": "Kenny Connors",
-    "position": "C",
-    "jerseyNumber": 34,
-    "currentTeam": "LAK",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "LAK",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8483675.png"
-  },
-  {
     "id": 8483676,
     "name": "Stephen Halliday",
     "position": "C",
@@ -10178,6 +10178,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484170.png"
   },
   {
+    "id": 8484177,
+    "name": "Lenni Hameenaho",
+    "position": "R",
+    "jerseyNumber": 29,
+    "currentTeam": "NJD",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2023,
+    "draftTeam": "NJD",
+    "nationality": "FIN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8484177.png"
+  },
+  {
     "id": 8484180,
     "name": "Samuel Honzek",
     "position": "L",
@@ -10428,6 +10442,20 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484387.png"
+  },
+  {
+    "id": 8484388,
+    "name": "Daniil But",
+    "position": "L",
+    "jerseyNumber": 50,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "ARI",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484388.png"
   },
   {
     "id": 8484390,
