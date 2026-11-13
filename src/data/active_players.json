@@ -5768,20 +5768,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8480246.png"
   },
   {
-    "id": 8480259,
-    "name": "Ben Jones",
-    "position": "C",
-    "jerseyNumber": 18,
-    "currentTeam": "CGY",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2017,
-    "draftTeam": "VGK",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8480259.png"
-  },
-  {
     "id": 8480280,
     "name": "Jeremy Swayman",
     "position": "G",
@@ -7082,6 +7068,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8481563.png"
+  },
+  {
+    "id": 8481567,
+    "name": "Henry Thrun",
+    "position": "D",
+    "jerseyNumber": 8,
+    "currentTeam": "WPG",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2019,
+    "draftTeam": "ANA",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8481567.png"
   },
   {
     "id": 8481568,
@@ -9226,20 +9226,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8483432.png"
   },
   {
-    "id": 8483433,
-    "name": "Jack Devine",
-    "position": "R",
-    "jerseyNumber": 38,
-    "currentTeam": "FLA",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2022,
-    "draftTeam": "FLA",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8483433.png"
-  },
-  {
     "id": 8483442,
     "name": "Jagger Firkus",
     "position": "R",
@@ -10094,6 +10080,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8484148.png"
   },
   {
+    "id": 8484149,
+    "name": "Gavin Brindley",
+    "position": "C",
+    "jerseyNumber": 54,
+    "currentTeam": "COL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "CBJ",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png"
+  },
+  {
     "id": 8484153,
     "name": "Leo Carlsson",
     "position": "C",
@@ -10190,20 +10190,6 @@
     "nationality": "FIN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8484177.png"
-  },
-  {
-    "id": 8484180,
-    "name": "Samuel Honzek",
-    "position": "L",
-    "jerseyNumber": 29,
-    "currentTeam": "CGY",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2023,
-    "draftTeam": "CGY",
-    "nationality": "SVK",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484180.png"
   },
   {
     "id": 8484186,
