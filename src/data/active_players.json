@@ -1330,20 +1330,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8476419.png"
   },
   {
-    "id": 8476422,
-    "name": "Mike Reilly",
-    "position": "D",
-    "jerseyNumber": 6,
-    "currentTeam": "CAR",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2011,
-    "draftTeam": "CBJ",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8476422.png"
-  },
-  {
     "id": 8476429,
     "name": "Scott Mayfield",
     "position": "D",
@@ -10778,6 +10764,20 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484984.png"
+  },
+  {
+    "id": 8484987,
+    "name": "Anton Silaev",
+    "position": "D",
+    "jerseyNumber": 52,
+    "currentTeam": "NJD",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2024,
+    "draftTeam": "NJD",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8484987.png"
   },
   {
     "id": 8484994,
