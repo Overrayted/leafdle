@@ -2296,6 +2296,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477220.png"
   },
   {
+    "id": 8477335,
+    "name": "Kyle Burroughs",
+    "position": "D",
+    "jerseyNumber": 28,
+    "currentTeam": "DAL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2013,
+    "draftTeam": "NYI",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8477335.png"
+  },
+  {
     "id": 8477346,
     "name": "MacKenzie Weegar",
     "position": "D",
@@ -3820,6 +3834,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8478444.png"
+  },
+  {
+    "id": 8478445,
+    "name": "Mathew Barzal",
+    "position": "C",
+    "jerseyNumber": 13,
+    "currentTeam": "NYI",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2015,
+    "draftTeam": "NYI",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8478445.png"
   },
   {
     "id": 8478446,
@@ -6720,20 +6748,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8481219.png"
   },
   {
-    "id": 8481237,
-    "name": "Kyle MacLean",
-    "position": "C",
-    "jerseyNumber": 32,
-    "currentTeam": "NYI",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8481237.png"
-  },
-  {
     "id": 8481477,
     "name": "Nico Sturm",
     "position": "C",
@@ -8274,34 +8288,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482460.png"
   },
   {
-    "id": 8482465,
-    "name": "Rémi Poirier",
-    "position": "G",
-    "jerseyNumber": 31,
-    "currentTeam": "DAL",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2020,
-    "draftTeam": "DAL",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8482465.png"
-  },
-  {
-    "id": 8482470,
-    "name": "Ilya Solovyov",
-    "position": "D",
-    "jerseyNumber": 7,
-    "currentTeam": "PIT",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2020,
-    "draftTeam": "CGY",
-    "nationality": "BLR",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8482470.png"
-  },
-  {
     "id": 8482475,
     "name": "Egor Chinakhov",
     "position": "R",
@@ -9061,7 +9047,7 @@
     "id": 8482942,
     "name": "Alex Gagne",
     "position": "D",
-    "jerseyNumber": 45,
+    "jerseyNumber": 28,
     "currentTeam": "COL",
     "division": "Central",
     "conference": "Western",
@@ -9098,20 +9084,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8482982.png"
-  },
-  {
-    "id": 8483012,
-    "name": "Logan Morrison",
-    "position": "C",
-    "jerseyNumber": 96,
-    "currentTeam": "SEA",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483012.png"
   },
   {
     "id": 8483017,
@@ -10332,6 +10304,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484262.png"
   },
   {
+    "id": 8484268,
+    "name": "Nikita Tolopilo",
+    "position": "G",
+    "jerseyNumber": 60,
+    "currentTeam": "VAN",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "BLR",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484268.png"
+  },
+  {
     "id": 8484287,
     "name": "Cole McWard",
     "position": "D",
@@ -10946,6 +10932,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8485414.png"
+  },
+  {
+    "id": 8485468,
+    "name": "Trey Taylor",
+    "position": "D",
+    "jerseyNumber": 27,
+    "currentTeam": "DAL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8485468.png"
   },
   {
     "id": 8485469,
