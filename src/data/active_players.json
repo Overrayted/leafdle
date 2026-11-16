@@ -1330,6 +1330,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8476419.png"
   },
   {
+    "id": 8476422,
+    "name": "Mike Reilly",
+    "position": "D",
+    "jerseyNumber": 5,
+    "currentTeam": "COL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2011,
+    "draftTeam": "CBJ",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8476422.png"
+  },
+  {
     "id": 8476429,
     "name": "Scott Mayfield",
     "position": "D",
@@ -7378,6 +7392,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png"
   },
   {
+    "id": 8481708,
+    "name": "Zac Jones",
+    "position": "D",
+    "jerseyNumber": 15,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2019,
+    "draftTeam": "NYR",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8481708.png"
+  },
+  {
     "id": 8481711,
     "name": "Matias Maccelli",
     "position": "L",
@@ -7530,6 +7558,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8481806.png"
+  },
+  {
+    "id": 8481827,
+    "name": "Ben McCartney",
+    "position": "L",
+    "jerseyNumber": 62,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2020,
+    "draftTeam": "ARI",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8481827.png"
   },
   {
     "id": 8482055,
@@ -7908,6 +7950,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482124.png"
+  },
+  {
+    "id": 8482132,
+    "name": "Brett Berard",
+    "position": "L",
+    "jerseyNumber": 37,
+    "currentTeam": "MTL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "NYR",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8482132.png"
   },
   {
     "id": 8482137,
@@ -9184,6 +9240,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8483432.png"
   },
   {
+    "id": 8483436,
+    "name": "Artem Duda",
+    "position": "D",
+    "jerseyNumber": 84,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2022,
+    "draftTeam": "ARI",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8483436.png"
+  },
+  {
     "id": 8483442,
     "name": "Jagger Firkus",
     "position": "R",
@@ -9238,20 +9308,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8483450.png"
-  },
-  {
-    "id": 8483455,
-    "name": "Isaac Howard",
-    "position": "L",
-    "jerseyNumber": 53,
-    "currentTeam": "EDM",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "TBL",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8483455.png"
   },
   {
     "id": 8483457,
@@ -10192,6 +10248,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8484210.png"
   },
   {
+    "id": 8484220,
+    "name": "David Reinbacher",
+    "position": "D",
+    "jerseyNumber": 64,
+    "currentTeam": "MTL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2023,
+    "draftTeam": "MTL",
+    "nationality": "AUT",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484220.png"
+  },
+  {
     "id": 8484221,
     "name": "Calum Ritchie",
     "position": "C",
@@ -10792,20 +10862,6 @@
     "nationality": "BLR",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484999.png"
-  },
-  {
-    "id": 8485010,
-    "name": "Gregor Biber",
-    "position": "D",
-    "jerseyNumber": 94,
-    "currentTeam": "UTA",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2024,
-    "draftTeam": "UTA",
-    "nationality": "AUT",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8485010.png"
   },
   {
     "id": 8485366,
