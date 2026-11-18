@@ -10864,6 +10864,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484999.png"
   },
   {
+    "id": 8485010,
+    "name": "Gregor Biber",
+    "position": "D",
+    "jerseyNumber": 94,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2024,
+    "draftTeam": "UTA",
+    "nationality": "AUT",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8485010.png"
+  },
+  {
     "id": 8485366,
     "name": "Matthew Schaefer",
     "position": "D",
