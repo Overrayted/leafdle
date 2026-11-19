@@ -896,6 +896,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475745.png"
   },
   {
+    "id": 8475752,
+    "name": "Tyler Pitlick",
+    "position": "C",
+    "jerseyNumber": 19,
+    "currentTeam": "MIN",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2010,
+    "draftTeam": "EDM",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8475752.png"
+  },
+  {
     "id": 8475753,
     "name": "Justin Faulk",
     "position": "D",
@@ -3752,6 +3766,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8478421.png"
   },
   {
+    "id": 8478424,
+    "name": "Jansen Harkins",
+    "position": "C",
+    "jerseyNumber": 10,
+    "currentTeam": "TBL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2015,
+    "draftTeam": "WPG",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8478424.png"
+  },
+  {
     "id": 8478427,
     "name": "Sebastian Aho",
     "position": "C",
@@ -6088,6 +6116,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8480803.png"
+  },
+  {
+    "id": 8480806,
+    "name": "Isac Lundeström",
+    "position": "C",
+    "jerseyNumber": 21,
+    "currentTeam": "CBJ",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2018,
+    "draftTeam": "ANA",
+    "nationality": "SWE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8480806.png"
   },
   {
     "id": 8480807,
@@ -10276,20 +10318,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484220.png"
   },
   {
-    "id": 8484221,
-    "name": "Calum Ritchie",
-    "position": "C",
-    "jerseyNumber": 64,
-    "currentTeam": "NYI",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2023,
-    "draftTeam": "COL",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8484221.png"
-  },
-  {
     "id": 8484227,
     "name": "Will Smith",
     "position": "C",
@@ -10862,20 +10890,6 @@
     "nationality": "BLR",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8484999.png"
-  },
-  {
-    "id": 8485010,
-    "name": "Gregor Biber",
-    "position": "D",
-    "jerseyNumber": 94,
-    "currentTeam": "UTA",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2024,
-    "draftTeam": "UTA",
-    "nationality": "AUT",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8485010.png"
   },
   {
     "id": 8485366,
