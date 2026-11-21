@@ -896,20 +896,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8475745.png"
   },
   {
-    "id": 8475752,
-    "name": "Tyler Pitlick",
-    "position": "C",
-    "jerseyNumber": 19,
-    "currentTeam": "MIN",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2010,
-    "draftTeam": "EDM",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8475752.png"
-  },
-  {
     "id": 8475753,
     "name": "Justin Faulk",
     "position": "D",
@@ -4858,6 +4844,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8479385.png"
   },
   {
+    "id": 8479390,
+    "name": "Taylor Raddysh",
+    "position": "R",
+    "jerseyNumber": 14,
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2016,
+    "draftTeam": "TBL",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479390.png"
+  },
+  {
     "id": 8479394,
     "name": "Carter Hart",
     "position": "G",
@@ -8064,6 +8064,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8482137.png"
   },
   {
+    "id": 8482141,
+    "name": "Lukas Cormier",
+    "position": "D",
+    "jerseyNumber": 51,
+    "currentTeam": "VGK",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2020,
+    "draftTeam": "VGK",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8482141.png"
+  },
+  {
     "id": 8482142,
     "name": "Jamie Drysdale",
     "position": "D",
@@ -10112,14 +10126,14 @@
     "name": "Max Sasson",
     "position": "C",
     "jerseyNumber": 63,
-    "currentTeam": "VAN",
-    "division": "Pacific",
-    "conference": "Western",
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
     "draftYear": null,
     "draftTeam": "N/A",
     "nationality": "USA",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484136.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8484136.png"
   },
   {
     "id": 8484142,
@@ -10444,6 +10458,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484262.png"
   },
   {
+    "id": 8484268,
+    "name": "Nikita Tolopilo",
+    "position": "G",
+    "jerseyNumber": 60,
+    "currentTeam": "VAN",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "BLR",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484268.png"
+  },
+  {
     "id": 8484287,
     "name": "Cole McWard",
     "position": "D",
@@ -10568,6 +10596,20 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484403.png"
+  },
+  {
+    "id": 8484406,
+    "name": "Ty Mueller",
+    "position": "C",
+    "jerseyNumber": 39,
+    "currentTeam": "VAN",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "VAN",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484406.png"
   },
   {
     "id": 8484421,
@@ -10780,6 +10822,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8484829.png"
   },
   {
+    "id": 8484859,
+    "name": "Stian Solberg",
+    "position": "D",
+    "jerseyNumber": 50,
+    "currentTeam": "ANA",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2024,
+    "draftTeam": "ANA",
+    "nationality": "NOR",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484859.png"
+  },
+  {
     "id": 8484860,
     "name": "Matvei Gridin",
     "position": "R",
@@ -10876,20 +10932,6 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484984.png"
-  },
-  {
-    "id": 8484987,
-    "name": "Anton Silaev",
-    "position": "D",
-    "jerseyNumber": 52,
-    "currentTeam": "NJD",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2024,
-    "draftTeam": "NJD",
-    "nationality": "RUS",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8484987.png"
   },
   {
     "id": 8484994,
