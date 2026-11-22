@@ -14574,6 +14574,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8482634.png"
   },
   {
+    "id": 8482691,
+    "name": "Aatu Räty",
+    "position": "C",
+    "jerseyNumber": null,
+    "currentTeam": "TOR",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2021,
+    "draftTeam": "NYI",
+    "nationality": "FIN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482691.png"
+  },
+  {
     "id": 8482720,
     "name": "Matthew Knies",
     "position": "L",
