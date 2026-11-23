@@ -13808,14 +13808,14 @@
     "name": "Steven Lorentz",
     "position": "C",
     "jerseyNumber": 18,
-    "currentTeam": "CBJ",
-    "division": "Metropolitan",
-    "conference": "Eastern",
+    "currentTeam": "Retired / Inactive",
+    "division": null,
+    "conference": null,
     "draftYear": 2015,
     "draftTeam": "CAR",
     "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478904.png"
+    "isActive": false,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478904.png"
   },
   {
     "id": 8478975,
@@ -14577,7 +14577,7 @@
     "id": 8482691,
     "name": "Aatu Räty",
     "position": "C",
-    "jerseyNumber": null,
+    "jerseyNumber": 26,
     "currentTeam": "TOR",
     "division": "Atlantic",
     "conference": "Eastern",

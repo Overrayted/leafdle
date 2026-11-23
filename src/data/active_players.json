@@ -1711,15 +1711,15 @@
     "id": 8476822,
     "name": "Luke Glendening",
     "position": "C",
-    "jerseyNumber": 43,
-    "currentTeam": "NYR",
-    "division": "Metropolitan",
-    "conference": "Eastern",
+    "jerseyNumber": 23,
+    "currentTeam": "CHI",
+    "division": "Central",
+    "conference": "Western",
     "draftYear": null,
     "draftTeam": "N/A",
     "nationality": "USA",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8476822.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8476822.png"
   },
   {
     "id": 8476826,
@@ -2154,6 +2154,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8476945.png"
+  },
+  {
+    "id": 8476952,
+    "name": "Dominic Toninato",
+    "position": "C",
+    "jerseyNumber": 25,
+    "currentTeam": "CHI",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2012,
+    "draftTeam": "TOR",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8476952.png"
   },
   {
     "id": 8476958,
@@ -3052,6 +3066,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8477942.png"
   },
   {
+    "id": 8477946,
+    "name": "Dylan Larkin",
+    "position": "C",
+    "jerseyNumber": 89,
+    "currentTeam": "MTL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2014,
+    "draftTeam": "DET",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8477946.png"
+  },
+  {
     "id": 8477948,
     "name": "Travis Sanheim",
     "position": "D",
@@ -3766,20 +3794,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8478421.png"
   },
   {
-    "id": 8478424,
-    "name": "Jansen Harkins",
-    "position": "C",
-    "jerseyNumber": 10,
-    "currentTeam": "TBL",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2015,
-    "draftTeam": "WPG",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8478424.png"
-  },
-  {
     "id": 8478427,
     "name": "Sebastian Aho",
     "position": "C",
@@ -4063,15 +4077,15 @@
     "id": 8478470,
     "name": "Samuel Montembeault",
     "position": "G",
-    "jerseyNumber": 35,
-    "currentTeam": "MTL",
+    "jerseyNumber": null,
+    "currentTeam": "DET",
     "division": "Atlantic",
     "conference": "Eastern",
     "draftYear": 2015,
     "draftTeam": "FLA",
     "nationality": "CAN",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8478470.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478470.png"
   },
   {
     "id": 8478472,
@@ -4438,20 +4452,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478891.png"
   },
   {
-    "id": 8478904,
-    "name": "Steven Lorentz",
-    "position": "C",
-    "jerseyNumber": 18,
-    "currentTeam": "CBJ",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2015,
-    "draftTeam": "CAR",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478904.png"
-  },
-  {
     "id": 8478911,
     "name": "Matt Roy",
     "position": "D",
@@ -4632,6 +4632,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8479325.png"
+  },
+  {
+    "id": 8479333,
+    "name": "Libor Hajek",
+    "position": "D",
+    "jerseyNumber": 24,
+    "currentTeam": "SJS",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2016,
+    "draftTeam": "TBL",
+    "nationality": "CZE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8479333.png"
   },
   {
     "id": 8479337,
@@ -5908,20 +5922,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8480313.png"
   },
   {
-    "id": 8480326,
-    "name": "Sheldon Dries",
-    "position": "C",
-    "jerseyNumber": 15,
-    "currentTeam": "DET",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8480326.png"
-  },
-  {
     "id": 8480336,
     "name": "Sean Walker",
     "position": "D",
@@ -6765,15 +6765,15 @@
     "id": 8481133,
     "name": "Cole Reinhardt",
     "position": "L",
-    "jerseyNumber": 29,
-    "currentTeam": "FLA",
-    "division": "Atlantic",
-    "conference": "Eastern",
+    "jerseyNumber": null,
+    "currentTeam": "VAN",
+    "division": "Pacific",
+    "conference": "Western",
     "draftYear": 2020,
     "draftTeam": "OTT",
     "nationality": "CAN",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8481133.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8481133.png"
   },
   {
     "id": 8481161,
@@ -6905,15 +6905,15 @@
     "id": 8481523,
     "name": "Kirby Dach",
     "position": "C",
-    "jerseyNumber": 77,
-    "currentTeam": "MTL",
+    "jerseyNumber": null,
+    "currentTeam": "DET",
     "division": "Atlantic",
     "conference": "Eastern",
     "draftYear": 2019,
     "draftTeam": "CHI",
     "nationality": "CAN",
     "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8481523.png"
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481523.png"
   },
   {
     "id": 8481524,
@@ -8400,6 +8400,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8482447.png"
   },
   {
+    "id": 8482451,
+    "name": "Mikael Pyyhtia",
+    "position": "L",
+    "jerseyNumber": 82,
+    "currentTeam": "CBJ",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "CBJ",
+    "nationality": "FIN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8482451.png"
+  },
+  {
     "id": 8482459,
     "name": "Tyrel Bauer",
     "position": "D",
@@ -8725,7 +8739,7 @@
     "id": 8482691,
     "name": "Aatu Räty",
     "position": "C",
-    "jerseyNumber": null,
+    "jerseyNumber": 26,
     "currentTeam": "TOR",
     "division": "Atlantic",
     "conference": "Eastern",
@@ -10444,20 +10458,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484262.png"
   },
   {
-    "id": 8484268,
-    "name": "Nikita Tolopilo",
-    "position": "G",
-    "jerseyNumber": 60,
-    "currentTeam": "VAN",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "BLR",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484268.png"
-  },
-  {
     "id": 8484287,
     "name": "Cole McWard",
     "position": "D",
@@ -10794,6 +10794,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484806.png"
   },
   {
+    "id": 8484821,
+    "name": "Sam Morton",
+    "position": "C",
+    "jerseyNumber": 45,
+    "currentTeam": "CGY",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484821.png"
+  },
+  {
     "id": 8484829,
     "name": "Justin Hryckowian",
     "position": "C",
@@ -11128,20 +11142,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8485512.png"
-  },
-  {
-    "id": 8485554,
-    "name": "Dillon Boucher",
-    "position": "L",
-    "jerseyNumber": 36,
-    "currentTeam": "CHI",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8485554.png"
   },
   {
     "id": 8485702,
