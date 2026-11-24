@@ -4077,7 +4077,7 @@
     "id": 8478470,
     "name": "Samuel Montembeault",
     "position": "G",
-    "jerseyNumber": null,
+    "jerseyNumber": 32,
     "currentTeam": "DET",
     "division": "Atlantic",
     "conference": "Eastern",
@@ -6384,20 +6384,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8480865.png"
   },
   {
-    "id": 8480870,
-    "name": "Bo Groulx",
-    "position": "C",
-    "jerseyNumber": 29,
-    "currentTeam": "TOR",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2018,
-    "draftTeam": "ANA",
-    "nationality": "FRA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8480870.png"
-  },
-  {
     "id": 8480873,
     "name": "Rasmus Sandin",
     "position": "D",
@@ -6765,7 +6751,7 @@
     "id": 8481133,
     "name": "Cole Reinhardt",
     "position": "L",
-    "jerseyNumber": null,
+    "jerseyNumber": 29,
     "currentTeam": "VAN",
     "division": "Pacific",
     "conference": "Western",
@@ -6905,7 +6891,7 @@
     "id": 8481523,
     "name": "Kirby Dach",
     "position": "C",
-    "jerseyNumber": null,
+    "jerseyNumber": 17,
     "currentTeam": "DET",
     "division": "Atlantic",
     "conference": "Eastern",
@@ -8036,6 +8022,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482124.png"
   },
   {
+    "id": 8482132,
+    "name": "Brett Berard",
+    "position": "L",
+    "jerseyNumber": 37,
+    "currentTeam": "MTL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2020,
+    "draftTeam": "NYR",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8482132.png"
+  },
+  {
     "id": 8482137,
     "name": "Yaroslav Askarov",
     "position": "G",
@@ -8538,20 +8538,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8482516.png"
-  },
-  {
-    "id": 8482525,
-    "name": "Ryan Tverberg",
-    "position": "C",
-    "jerseyNumber": 77,
-    "currentTeam": "TOR",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2020,
-    "draftTeam": "TOR",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482525.png"
   },
   {
     "id": 8482641,
@@ -9800,20 +9786,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8483525.png"
   },
   {
-    "id": 8483526,
-    "name": "Danil Zhilkin",
-    "position": "C",
-    "jerseyNumber": 53,
-    "currentTeam": "WPG",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "WPG",
-    "nationality": "RUS",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8483526.png"
-  },
-  {
     "id": 8483546,
     "name": "Marshall Rifai",
     "position": "D",
@@ -10360,6 +10332,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8484210.png"
   },
   {
+    "id": 8484220,
+    "name": "David Reinbacher",
+    "position": "D",
+    "jerseyNumber": 64,
+    "currentTeam": "MTL",
+    "division": "Atlantic",
+    "conference": "Eastern",
+    "draftYear": 2023,
+    "draftTeam": "MTL",
+    "nationality": "AUT",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484220.png"
+  },
+  {
     "id": 8484227,
     "name": "Will Smith",
     "position": "C",
@@ -10624,20 +10610,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484471.png"
-  },
-  {
-    "id": 8484759,
-    "name": "Carter Yakemchuk",
-    "position": "D",
-    "jerseyNumber": 26,
-    "currentTeam": "OTT",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2024,
-    "draftTeam": "OTT",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8484759.png"
   },
   {
     "id": 8484762,

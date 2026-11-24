@@ -14172,14 +14172,14 @@
     "name": "Bo Groulx",
     "position": "C",
     "jerseyNumber": 29,
-    "currentTeam": "TOR",
-    "division": "Atlantic",
-    "conference": "Eastern",
+    "currentTeam": "Retired / Inactive",
+    "division": null,
+    "conference": null,
     "draftYear": 2018,
     "draftTeam": "ANA",
     "nationality": "FRA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8480870.png"
+    "isActive": false,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8480870.png"
   },
   {
     "id": 8480873,
@@ -14544,20 +14544,6 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482515.png"
-  },
-  {
-    "id": 8482525,
-    "name": "Ryan Tverberg",
-    "position": "C",
-    "jerseyNumber": 77,
-    "currentTeam": "TOR",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2020,
-    "draftTeam": "TOR",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482525.png"
   },
   {
     "id": 8482634,
