@@ -7070,6 +7070,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8481546.png"
   },
   {
+    "id": 8481550,
+    "name": "Adam Beckman",
+    "position": "L",
+    "jerseyNumber": 34,
+    "currentTeam": "COL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2019,
+    "draftTeam": "MIN",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8481550.png"
+  },
+  {
     "id": 8481551,
     "name": "Colten Ellis",
     "position": "G",
@@ -8048,20 +8062,6 @@
     "nationality": "RUS",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8482137.png"
-  },
-  {
-    "id": 8482141,
-    "name": "Lukas Cormier",
-    "position": "D",
-    "jerseyNumber": 51,
-    "currentTeam": "VGK",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2020,
-    "draftTeam": "VGK",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8482141.png"
   },
   {
     "id": 8482142,
@@ -9184,6 +9184,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482896.png"
   },
   {
+    "id": 8482922,
+    "name": "Kirill Kirsanov",
+    "position": "D",
+    "jerseyNumber": 78,
+    "currentTeam": "LAK",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2021,
+    "draftTeam": "LAK",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482922.png"
+  },
+  {
     "id": 8482929,
     "name": "Emil Lilleberg",
     "position": "D",
@@ -9742,20 +9756,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8483516.png"
-  },
-  {
-    "id": 8483521,
-    "name": "Noah Warren",
-    "position": "D",
-    "jerseyNumber": 47,
-    "currentTeam": "ANA",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2022,
-    "draftTeam": "ANA",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8483521.png"
   },
   {
     "id": 8483524,
@@ -10346,6 +10346,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484220.png"
   },
   {
+    "id": 8484221,
+    "name": "Calum Ritchie",
+    "position": "C",
+    "jerseyNumber": 64,
+    "currentTeam": "NYI",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2023,
+    "draftTeam": "COL",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8484221.png"
+  },
+  {
     "id": 8484227,
     "name": "Will Smith",
     "position": "C",
@@ -10358,6 +10372,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484227.png"
+  },
+  {
+    "id": 8484230,
+    "name": "Otto Stenberg",
+    "position": "C",
+    "jerseyNumber": 28,
+    "currentTeam": "STL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "STL",
+    "nationality": "SWE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484230.png"
   },
   {
     "id": 8484234,
@@ -10668,6 +10696,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8484783.png"
   },
   {
+    "id": 8484790,
+    "name": "Adam Jiricek",
+    "position": "D",
+    "jerseyNumber": 36,
+    "currentTeam": "STL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2024,
+    "draftTeam": "STL",
+    "nationality": "CZE",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484790.png"
+  },
+  {
     "id": 8484794,
     "name": "Michael Brandsegg-Nygård",
     "position": "R",
@@ -10764,20 +10806,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484806.png"
-  },
-  {
-    "id": 8484821,
-    "name": "Sam Morton",
-    "position": "C",
-    "jerseyNumber": 45,
-    "currentTeam": "CGY",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": null,
-    "draftTeam": "N/A",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484821.png"
   },
   {
     "id": 8484829,
