@@ -4634,20 +4634,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8479325.png"
   },
   {
-    "id": 8479333,
-    "name": "Libor Hajek",
-    "position": "D",
-    "jerseyNumber": 24,
-    "currentTeam": "SJS",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2016,
-    "draftTeam": "TBL",
-    "nationality": "CZE",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8479333.png"
-  },
-  {
     "id": 8479337,
     "name": "Alex DeBrincat",
     "position": "R",
@@ -6846,20 +6832,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8481481.png"
   },
   {
-    "id": 8481517,
-    "name": "Brett Leason",
-    "position": "R",
-    "jerseyNumber": 17,
-    "currentTeam": "SJS",
-    "division": "Pacific",
-    "conference": "Western",
-    "draftYear": 2019,
-    "draftTeam": "WSH",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8481517.png"
-  },
-  {
     "id": 8481519,
     "name": "Spencer Knight",
     "position": "G",
@@ -7490,6 +7462,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8481692.png"
   },
   {
+    "id": 8481704,
+    "name": "Juuso Parssinen",
+    "position": "C",
+    "jerseyNumber": 71,
+    "currentTeam": "NYR",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2019,
+    "draftTeam": "NSH",
+    "nationality": "FIN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8481704.png"
+  },
+  {
     "id": 8481708,
     "name": "Zac Jones",
     "position": "D",
@@ -7642,20 +7628,6 @@
     "nationality": "CAN",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8481806.png"
-  },
-  {
-    "id": 8481827,
-    "name": "Ben McCartney",
-    "position": "L",
-    "jerseyNumber": 62,
-    "currentTeam": "UTA",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2020,
-    "draftTeam": "ARI",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8481827.png"
   },
   {
     "id": 8482055,
@@ -9212,6 +9184,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8482929.png"
   },
   {
+    "id": 8482953,
+    "name": "Taylor Makar",
+    "position": "L",
+    "jerseyNumber": 16,
+    "currentTeam": "COL",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2021,
+    "draftTeam": "COL",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482953.png"
+  },
+  {
     "id": 8482964,
     "name": "Arber Xhekaj",
     "position": "D",
@@ -9518,6 +9504,20 @@
     "nationality": "SWE",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8483476.png"
+  },
+  {
+    "id": 8483481,
+    "name": "Cam Lund",
+    "position": "C",
+    "jerseyNumber": 46,
+    "currentTeam": "SJS",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2022,
+    "draftTeam": "SJS",
+    "nationality": "USA",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8483481.png"
   },
   {
     "id": 8483482,
@@ -10176,6 +10176,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png"
+  },
+  {
+    "id": 8484152,
+    "name": "Luca Cagnoni",
+    "position": "D",
+    "jerseyNumber": 42,
+    "currentTeam": "SJS",
+    "division": "Pacific",
+    "conference": "Western",
+    "draftYear": 2023,
+    "draftTeam": "SJS",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484152.png"
   },
   {
     "id": 8484153,
@@ -11142,6 +11156,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8485512.png"
+  },
+  {
+    "id": 8485594,
+    "name": "Yegor Borikov",
+    "position": "R",
+    "jerseyNumber": 65,
+    "currentTeam": "UTA",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": 2025,
+    "draftTeam": "UTA",
+    "nationality": "BLR",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8485594.png"
   },
   {
     "id": 8485702,
