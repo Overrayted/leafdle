@@ -840,20 +840,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8475717.png"
   },
   {
-    "id": 8475718,
-    "name": "Justin Holl",
-    "position": "D",
-    "jerseyNumber": 4,
-    "currentTeam": "WSH",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2010,
-    "draftTeam": "CHI",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475718.png"
-  },
-  {
     "id": 8475722,
     "name": "Jason Zucker",
     "position": "L",
@@ -2156,20 +2142,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8476945.png"
   },
   {
-    "id": 8476952,
-    "name": "Dominic Toninato",
-    "position": "C",
-    "jerseyNumber": 25,
-    "currentTeam": "CHI",
-    "division": "Central",
-    "conference": "Western",
-    "draftYear": 2012,
-    "draftTeam": "TOR",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8476952.png"
-  },
-  {
     "id": 8476958,
     "name": "Jaccob Slavin",
     "position": "D",
@@ -3470,20 +3442,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8478057.png"
-  },
-  {
-    "id": 8478104,
-    "name": "Sammy Blais",
-    "position": "L",
-    "jerseyNumber": 79,
-    "currentTeam": "OTT",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2014,
-    "draftTeam": "STL",
-    "nationality": "CAN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8478104.png"
   },
   {
     "id": 8478109,
@@ -8652,20 +8610,6 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8482671.png"
   },
   {
-    "id": 8482674,
-    "name": "Tyler Boucher",
-    "position": "R",
-    "jerseyNumber": 54,
-    "currentTeam": "OTT",
-    "division": "Atlantic",
-    "conference": "Eastern",
-    "draftYear": 2021,
-    "draftTeam": "OTT",
-    "nationality": "USA",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8482674.png"
-  },
-  {
     "id": 8482679,
     "name": "Matt Coronato",
     "position": "R",
@@ -10080,6 +10024,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8483808.png"
   },
   {
+    "id": 8483833,
+    "name": "Atley Calvert",
+    "position": "C",
+    "jerseyNumber": 84,
+    "currentTeam": "PIT",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8483833.png"
+  },
+  {
     "id": 8483890,
     "name": "Braeden Bowman",
     "position": "R",
@@ -10274,20 +10232,6 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484170.png"
-  },
-  {
-    "id": 8484177,
-    "name": "Lenni Hameenaho",
-    "position": "R",
-    "jerseyNumber": 29,
-    "currentTeam": "NJD",
-    "division": "Metropolitan",
-    "conference": "Eastern",
-    "draftYear": 2023,
-    "draftTeam": "NJD",
-    "nationality": "FIN",
-    "isActive": true,
-    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8484177.png"
   },
   {
     "id": 8484186,
@@ -10948,6 +10892,20 @@
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484984.png"
   },
   {
+    "id": 8484987,
+    "name": "Anton Silaev",
+    "position": "D",
+    "jerseyNumber": 52,
+    "currentTeam": "NJD",
+    "division": "Metropolitan",
+    "conference": "Eastern",
+    "draftYear": 2024,
+    "draftTeam": "NJD",
+    "nationality": "RUS",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8484987.png"
+  },
+  {
     "id": 8484994,
     "name": "Igor Chernyshov",
     "position": "L",
@@ -11156,6 +11114,20 @@
     "nationality": "USA",
     "isActive": true,
     "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8485512.png"
+  },
+  {
+    "id": 8485554,
+    "name": "Dillon Boucher",
+    "position": "L",
+    "jerseyNumber": 36,
+    "currentTeam": "CHI",
+    "division": "Central",
+    "conference": "Western",
+    "draftYear": null,
+    "draftTeam": "N/A",
+    "nationality": "CAN",
+    "isActive": true,
+    "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8485554.png"
   },
   {
     "id": 8485594,
